@@ -27,7 +27,7 @@ print(c[5])
 print(len(c))# gives the length of string
 print(c.endswith("ara")) #gives true or false wheather the string endswith the provided substring
 print(c.startswith("vin")) #gives true or false wheather the string startswith the provided substring
-print(c.capitalize()) #capitalises the forst letter of the string
+print(c.capitalize()) #capitalises the first letter of the string
 print(c.count("a")) #counts the number of occurence of the character in the string
 print(c.lower()) #returns the string with all character with lowercase
 print(c.upper()) #returns the string with all character with uppercase
